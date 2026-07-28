@@ -1,11 +1,8 @@
 <div align="center">
 
-  <!-- Capsule Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=180&section=header&text=Hi%20there,%20I'm%20Tahsan%20Ahmmed%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
-
   <!-- Dynamic Animated Typing Text Header -->
   <a href="https://github.com/tahsanahmmed25">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=26&pause=1200&color=0969DA&center=true&vCenter=true&width=650&height=50&lines=⚡+100%25+Vibe+Coder+⚡;🚀+Building+Cool+Stuff+with+AI+🤖;📱+Native+Android+and+Mobile+Architect+📲;💻+Desktop+Software+Developer+💻;📊+Web+Analytics+and+Growth+Hacker+📈;🎨+Visual+Designer+and+Video+Editor+🎬;🧠+Prompt+Engineering+and+AI+Workflows+🪄;✨+Turning+Ideas+into+Products+Fast+🎯" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=26&pause=1200&color=0969DA&center=true&vCenter=true&width=650&height=55&lines=Hi+there!+I'm+Tahsan+Ahmmed+👋;⚡+100%25+Vibe+Coder+⚡;🚀+Building+Cool+Stuff+with+AI+🤖;📱+Native+Android+and+Mobile+Architect+📲;💻+Desktop+Software+Developer+💻;📊+Web+Analytics+and+Growth+Hacker+📈;🎨+Visual+Designer+and+Video+Editor+🎬;🧠+Prompt+Engineering+and+AI+Workflows+🪄;✨+Turning+Ideas+into+Products+Fast+🎯" alt="Typing SVG" />
   </a>
 
   <br/>
