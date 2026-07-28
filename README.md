@@ -5,7 +5,7 @@
 
   <!-- Dynamic Animated Typing Text Header -->
   <a href="https://github.com/tahsanahmmed25">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=25&pause=1000&color=0969DA&center=true&vCenter=true&width=600&height=50&lines=100%25+Vibe+Coder+Building+Cool+Stuff;Turning+Ideas+into+Real+Apps+with+AI;Native+Android+and+Desktop+Architect;Web+Analytics+and+Growth+Hacker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=26&pause=1200&color=0969DA&center=true&vCenter=true&width=600&height=50&lines=⚡+100%25+Vibe+Coder+⚡;🚀+Building+Cool+Stuff+with+AI+🤖;📱+Native+Android+and+Desktop+Architect+💻;📊+Web+Analytics+and+Growth+Specialist+📈;✨+Turning+Ideas+into+Real+Apps+🎯" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -23,7 +23,7 @@
 
   <br/>
 
-  <p align="center">⚡ <b>100% Vibe Coder</b> — <i>Powered by AI, Curiosity & Pure Passion</i> ⚡</p>
+  <p align="center">⚡ <b>100% Vibe Coder</b> ⚡ &nbsp;|&nbsp; 🚀 <b>Building Cool Stuff with AI</b> 🤖</p>
 
 </div>
 
@@ -31,7 +31,8 @@
 
 ### 🌟 About Me
 
-- ⚡ **Vibe Coder & Product Creator:** I don't memorize syntax—I prompt, architect, and ship real, production-ready apps using modern AI tools.
+- ⚡ **100% Vibe Coder:** I don't memorize syntax—I prompt, architect, and ship real, production-ready apps using modern AI tools.
+- 🚀 **Building Cool Stuff:** Crafting high-performance native mobile apps, desktop software, and intelligent web applications.
 - 📱 **Mobile App Builder:** Architecting native Android apps in **Kotlin**, **Jetpack Compose UI**, **Dagger Hilt**, and **Supabase Realtime**.
 - 💻 **Desktop Software Engineer:** Building cross-platform software with **Tauri v2**, **Rust**, **Python (PySide6 / Qt)**, and **Stealth Automation Engines**.
 - 🌐 **Full-Stack & Web Architect:** Designing high-speed web platforms using **Next.js 16/14**, **React 19/18**, **Astro Framework**, and **Tailwind CSS v4**.
