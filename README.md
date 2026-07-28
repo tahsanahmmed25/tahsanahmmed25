@@ -7,16 +7,17 @@
 
   <br/>
 
+  <!-- Jubair's Header Avatar Animation GIF -->
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" style="border-radius:12px;" alt="Header Animation"/>
+
+  <br/><br/>
+
+  <!-- Profile Views Badge directly below Header Avatar -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=tahsanahmmed25&color=FF5E36&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </p>
 
   <br/>
-
-  <!-- Jubair's Header Avatar Animation GIF -->
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" style="border-radius:12px;" alt="Header Animation"/>
-
-  <br/><br/>
 
   <!-- Vibrant Multi-Color Role Badges -->
   <p align="center">
