@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Crisp Vector Character-by-Character Typing SVG (26px Font) -->
+  <!-- Smooth & Slower Character-by-Character Typing SVG (duration=4500ms, pause=1500ms) -->
   <a href="https://github.com/tahsanahmmed25">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FF5E36&center=true&vCenter=true&width=780&lines=Hi+there!+I'm+Tahsan+Ahmmed+👋;⚡+Pure+Vibe+Coder+⚡;🚀+Building+Cool+Stuff+with+AI+🤖;📱+Native+Android+and+Mobile+Architect+📲;💻+Desktop+Software+Developer+💻;📊+Web+Analytics+and+Growth+Hacker+📈;🎨+Visual+Designer+and+Motion+Creator+🎬;🧠+Prompt+Engineer+and+AI+Automations+🪄;🚀+Digital+Growth+and+Team+Executive+🌟;✨+Turning+Ideas+into+Products+Fast+🎯" alt="Crisp Vector Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=4500&pause=1500&color=FF5E36&center=true&vCenter=true&width=780&lines=Hi+there!+I'm+Tahsan+Ahmmed+👋;⚡+Pure+Vibe+Coder+⚡;🚀+Building+Cool+Stuff+with+AI+🤖;📱+Native+Android+and+Mobile+Architect+📲;💻+Desktop+Software+Developer+💻;📊+Web+Analytics+and+Growth+Hacker+📈;🎨+Visual+Designer+and+Motion+Creator+🎬;🧠+Prompt+Engineer+and+AI+Automations+🪄;🚀+Digital+Growth+and+Team+Executive+🌟;✨+Turning+Ideas+into+Products+Fast+🎯" alt="Crisp Vector Typing SVG" />
   </a>
 
   <br/>
