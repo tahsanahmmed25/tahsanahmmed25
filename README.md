@@ -12,8 +12,10 @@
 
   <br/><br/>
 
-  <!-- Profile Views Badge directly below Header Avatar -->
+  <!-- Typing Speed & Profile Views Badges directly below Header Avatar -->
   <p align="center">
+    <img src="https://img.shields.io/badge/⌨️_TYPING_SPEED-60%2B_WPM-FF5E36?style=for-the-badge&logoColor=white" alt="Typing Speed"/>
+    &nbsp;&nbsp;
     <img src="https://komarev.com/ghpvc/?username=tahsanahmmed25&color=FF5E36&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </p>
 
