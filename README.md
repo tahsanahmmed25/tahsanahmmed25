@@ -1,18 +1,8 @@
 <div align="center">
 
-  <!-- Line 1: Electric Cyan Greeting -->
+  <!-- Single-Line Multi-Color Animated Dynamic Typing SVG -->
   <a href="https://github.com/tahsanahmmed25">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=50&lines=Hi+there!+I'm+Tahsan+Ahmmed+👋" alt="Cyan Greeting" />
-  </a>
-
-  <!-- Line 2: Electric Neon Coral Vibe Coder & AI -->
-  <a href="https://github.com/tahsanahmmed25">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=25&pause=1200&color=FF5E36&center=true&vCenter=true&width=650&height=45&lines=⚡+Pure+Vibe+Coder+⚡;🚀+Building+Cool+Stuff+with+AI+🤖;✨+Turning+Ideas+into+Products+Fast+🎯" alt="Coral Typing" />
-  </a>
-
-  <!-- Line 3: Neon Purple & Emerald Green Tech Stack -->
-  <a href="https://github.com/tahsanahmmed25">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=650&height=40&lines=📱+Native+Android+and+Mobile+Architect+📲;💻+Desktop+Software+Developer+💻;📊+Web+Analytics+and+Growth+Hacker+📈;🎨+Visual+Designer+and+Video+Editor+🎬" alt="Purple Typing" />
+    <img src="https://raw.githubusercontent.com/tahsanahmmed25/tahsanahmmed25/main/typing.svg" width="650" height="60" alt="Dynamic Typing Header"/>
   </a>
 
   <br/>
