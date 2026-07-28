@@ -5,7 +5,7 @@
 
   <!-- Dynamic Animated Typing Text Header -->
   <a href="https://github.com/tahsanahmmed25">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=26&pause=1200&color=0969DA&center=true&vCenter=true&width=600&height=50&lines=⚡+100%25+Vibe+Coder+⚡;🚀+Building+Cool+Stuff+with+AI+🤖;📱+Native+Android+and+Desktop+Architect+💻;📊+Web+Analytics+and+Growth+Specialist+📈;✨+Turning+Ideas+into+Real+Apps+🎯" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=26&pause=1200&color=0969DA&center=true&vCenter=true&width=650&height=50&lines=⚡+100%25+Vibe+Coder+⚡;🚀+Building+Cool+Stuff+with+AI+🤖;📱+Native+Android+and+Mobile+Architect+📲;💻+Desktop+Software+Developer+💻;📊+Web+Analytics+and+Growth+Hacker+📈;🎨+Visual+Designer+and+Video+Editor+🎬;🧠+Prompt+Engineering+and+AI+Workflows+🪄;✨+Turning+Ideas+into+Products+Fast+🎯" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -23,7 +23,7 @@
 
   <br/>
 
-  <p align="center">⚡ <b>100% Vibe Coder</b> ⚡ &nbsp;|&nbsp; 🚀 <b>Building Cool Stuff with AI</b> 🤖</p>
+  <p align="center">⚡ <b>100% Vibe Coder</b> ⚡ &nbsp;|&nbsp; 🚀 <b>Building Cool Stuff with AI</b> 🤖 &nbsp;|&nbsp; 🎨 <b>Design & Growth Tech</b> 📈</p>
 
 </div>
 
