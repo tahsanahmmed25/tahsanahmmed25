@@ -1,14 +1,14 @@
 <div align="center">
 
-  <!-- Dynamic Animated Typing Text Header in Cool Cyber Orange -->
+  <!-- Dynamic Animated Typing Text Header in Electric Coral -->
   <a href="https://github.com/tahsanahmmed25">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=26&pause=1200&color=FF6B00&center=true&vCenter=true&width=650&height=55&lines=Hi+there!+I'm+Tahsan+Ahmmed+👋;⚡+Pure+Vibe+Coder+⚡;🚀+Building+Cool+Stuff+with+AI+🤖;📱+Native+Android+and+Mobile+Architect+📲;💻+Desktop+Software+Developer+💻;📊+Web+Analytics+and+Growth+Hacker+📈;🎨+Visual+Designer+and+Video+Editor+🎬;🧠+Prompt+Engineering+and+AI+Workflows+🪄;✨+Turning+Ideas+into+Products+Fast+🎯" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=26&pause=1200&color=FF5E36&center=true&vCenter=true&width=650&height=55&lines=Hi+there!+I'm+Tahsan+Ahmmed+👋;⚡+Pure+Vibe+Coder+⚡;🚀+Building+Cool+Stuff+with+AI+🤖;📱+Native+Android+and+Mobile+Architect+📲;💻+Desktop+Software+Developer+💻;📊+Web+Analytics+and+Growth+Hacker+📈;🎨+Visual+Designer+and+Video+Editor+🎬;🧠+Prompt+Engineering+and+AI+Workflows+🪄;✨+Turning+Ideas+into+Products+Fast+🎯" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=tahsanahmmed25&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=tahsanahmmed25&color=FF5E36&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </p>
 
   <br/>
@@ -18,7 +18,15 @@
 
   <br/><br/>
 
-  <p align="center">⚡ <b style="color:#FF6B00;">Pure Vibe Coder</b> ⚡ &nbsp;|&nbsp; 🚀 <b>Building Cool Stuff with AI</b> 🤖 &nbsp;|&nbsp; 🎨 <b>Design & Growth Tech</b> 📈</p>
+  <!-- Vibrant Multi-Color Role Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/⚡_Pure_Vibe_Coder-FF5E36?style=for-the-badge&logoColor=white" alt="Vibe Coder"/>
+    <img src="https://img.shields.io/badge/🤖_AI_Architect-A855F7?style=for-the-badge&logoColor=white" alt="AI Architect"/>
+    <img src="https://img.shields.io/badge/📱_Android_Kotlin-10B981?style=for-the-badge&logoColor=white" alt="Android Kotlin"/>
+    <img src="https://img.shields.io/badge/💻_Tauri_Rust-3B82F6?style=for-the-badge&logoColor=white" alt="Tauri Rust"/>
+    <img src="https://img.shields.io/badge/📈_GTM_GA4-F59E0B?style=for-the-badge&logoColor=white" alt="GTM GA4"/>
+    <img src="https://img.shields.io/badge/🎨_Visual_Design-EC4899?style=for-the-badge&logoColor=white" alt="Visual Design"/>
+  </p>
 
 </div>
 
@@ -108,7 +116,9 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="3D Coding Workspace"/>
 
   <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF5E36&height=120&section=footer" width="100%"/>
   
-  <sub><i>"Thanks for visiting my profile! Feel free to reach out for collaborations & projects."</i> 🚀</sub>
+  <sub>*Thanks for visiting my profile! Feel free to reach out for collaborations & projects.* 🚀</sub>
 
 </div>
