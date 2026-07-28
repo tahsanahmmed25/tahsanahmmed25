@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Dynamic Animated Typing Text Header -->
+  <!-- Dynamic Animated Typing Text Header with Vibe Coder Phrases -->
   <a href="https://github.com/tahsanahmmed25">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+I'm+Tahsan+Ahmmed+👋;Hybrid+Growth+Technologist+🚀;Native+Android+%26+Desktop+Architect+📱;Web+Analytics+%26+Growth+Specialist+📊;Building+Software+%26+Designing+Experiences+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=650&height=70&lines=Hi+there!+I'm+Tahsan+Ahmmed+👋;Just+a+Vibe+Coder+Building+Cool+Stuff+✨;Turning+Ideas+into+Real+Apps+with+AI+🤖;Native+Android+%26+Desktop+Architect+📱;Web+Analytics+%26+Growth+Hacker+📊;No+CS+Degree,+Pure+Passion+%26+Vibe+🚀" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -13,10 +13,10 @@
 
   <br/>
 
-  <!-- Sleek Developer Workspace Illustration -->
+  <!-- Developer Workspace GIF -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header Wave"/>
 
-  <p align="center">⚡ <i>"Building Native Mobile Apps, Desktop Software, and High-Conversion Web Engines"</i> ⚡</p>
+  <p align="center">⚡ <b>100% Vibe Coder</b> — <i>Powered by AI, Curiosity & Pure Passion</i> ⚡</p>
 
 </div>
 
@@ -24,7 +24,8 @@
 
 ### 🌟 About Me
 
-- 📱 **Mobile App Developer:** Crafting native Android apps in **Kotlin**, **Jetpack Compose UI**, **Dagger Hilt**, and **Supabase Realtime**.
+- ⚡ **Vibe Coder & Product Creator:** I don't memorize syntax—I prompt, architect, and ship real, production-ready apps using modern AI tools.
+- 📱 **Mobile App Builder:** Architecting native Android apps in **Kotlin**, **Jetpack Compose UI**, **Dagger Hilt**, and **Supabase Realtime**.
 - 💻 **Desktop Software Engineer:** Building cross-platform software with **Tauri v2**, **Rust**, **Python (PySide6 / Qt)**, and **Stealth Automation Engines**.
 - 🌐 **Full-Stack & Web Architect:** Designing high-speed web platforms using **Next.js 16/14**, **React 19/18**, **Astro Framework**, and **Tailwind CSS v4**.
 - 📊 **Web Analytics Architect:** Specialist in **Google Tag Manager (GTM) Server-Side Tracking**, GA4 DataLayers, Meta Pixel, and Python GTM API automation (`gtm_setup.py`).
