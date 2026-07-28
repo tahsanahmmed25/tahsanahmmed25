@@ -1,9 +1,14 @@
 <div align="center">
 
-  <!-- Dynamic Animated Typing Text Header with Vibe Coder Phrases -->
+  <!-- Capsule Waving Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=180&section=header&text=Hi%20there,%20I'm%20Tahsan%20Ahmmed%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
+
+  <!-- Dynamic Animated Typing Text Header -->
   <a href="https://github.com/tahsanahmmed25">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=650&height=70&lines=Hi+there!+I'm+Tahsan+Ahmmed+👋;Just+a+Vibe+Coder+Building+Cool+Stuff+✨;Turning+Ideas+into+Real+Apps+with+AI+🤖;Native+Android+%26+Desktop+Architect+📱;Web+Analytics+%26+Growth+Hacker+📊;No+CS+Degree,+Pure+Passion+%26+Vibe+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=0969DA&center=true&vCenter=true&width=600&height=50&lines=100%25+Vibe+Coder+Building+Cool+Stuff+✨;Turning+Ideas+into+Real+Apps+with+AI+🤖;Native+Android+%26+Desktop+Architect+📱;Web+Analytics+%26+Growth+Hacker+📊" alt="Typing SVG" />
   </a>
+
+  <br/><br/>
 
   <p align="center">
     <a href="https://linkedin.com/in/tahsanahmmed24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -12,9 +17,6 @@
   </p>
 
   <br/>
-
-  <!-- Developer Workspace GIF -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header Wave"/>
 
   <p align="center">⚡ <b>100% Vibe Coder</b> — <i>Powered by AI, Curiosity & Pure Passion</i> ⚡</p>
 
@@ -80,14 +82,9 @@
 
 ---
 
-### 📊 GitHub Statistics & Metrics
+### 📊 GitHub Activity & Streak Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=tahsanahmmed25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tahsan's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahsanahmmed25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-
-  <br/><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahsanahmmed25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%"/>
 
