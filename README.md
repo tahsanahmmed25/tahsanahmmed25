@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Single-Line Multi-Color Animated Dynamic Typing SVG -->
+  <!-- Character-by-Character Hacker Terminal Typewriter SVG -->
   <a href="https://github.com/tahsanahmmed25">
-    <img src="https://raw.githubusercontent.com/tahsanahmmed25/tahsanahmmed25/main/typing.svg" width="750" height="65" alt="Dynamic Typing Header"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FF5E36&center=true&vCenter=true&width=720&lines=Hi+there!+I'm+Tahsan+Ahmmed+👋;⚡+Pure+Vibe+Coder+⚡;🚀+Building+Cool+Stuff+with+AI+🤖;📱+Native+Android+and+Mobile+Architect+📲;💻+Desktop+Software+Developer+💻;📊+Web+Analytics+and+Growth+Hacker+📈;🎨+Visual+Designer+and+Video+Editor+🎬;🧠+Prompt+Engineering+and+AI+Workflows+🪄;✨+Turning+Ideas+into+Products+Fast+🎯" alt="Hacker Typewriter SVG" />
   </a>
 
   <br/>
@@ -101,7 +101,7 @@
   <p align="center">
     <a href="https://linkedin.com/in/tahsanahmmed24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn"/></a>
     &nbsp;&nbsp;
-    <a href="mailto:ztahsan21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Email"/></a>
+    <a href="mailto:ztahsan21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
   <br/>
