@@ -1,15 +1,22 @@
 <div align="center">
 
-  # 👋 Hi, I'm **Tahsan Ahmmed**
-  ### 🚀 **Hybrid Growth Technologist** | Mobile & Desktop Software Architect | Web Analytics Specialist
+  <!-- Dynamic Animated Typing Text Header -->
+  <a href="https://github.com/tahsanahmmed25">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+I'm+Tahsan+Ahmmed+👋;Hybrid+Growth+Technologist+🚀;Native+Android+%26+Desktop+Architect+📱;Web+Analytics+%26+Growth+Specialist+📊;Building+Software+%26+Designing+Experiences+⚡" alt="Typing SVG" />
+  </a>
 
   <p align="center">
     <a href="https://linkedin.com/in/tahsanahmmed24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:ztahsan21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <img src="https://komarev.com/ghpvc/?username=tahsanahmmed25&color=0969DA&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Visits"/>
+    <img src="https://komarev.com/ghpvc/?username=tahsanahmmed25&color=0969DA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </p>
 
+  <br/>
+
+  <!-- Sleek Developer Workspace Illustration -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header Wave"/>
+
+  <p align="center">⚡ <i>"Building Native Mobile Apps, Desktop Software, and High-Conversion Web Engines"</i> ⚡</p>
 
 </div>
 
