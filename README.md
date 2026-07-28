@@ -7,8 +7,8 @@
 
   <br/>
 
-  <!-- Jubair's Header Avatar Animation GIF -->
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" style="border-radius:12px;" alt="Header Animation"/>
+  <!-- Top Header Avatar Animation GIF (Increased to 360px) -->
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="360" style="border-radius:14px;" alt="Header Animation"/>
 
   <br/><br/>
 
