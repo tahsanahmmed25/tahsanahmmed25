@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://linkedin.com/in/tahsanahmmed24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:ztahsan21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://wa.me/8801303307107"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+    <img src="https://komarev.com/ghpvc/?username=tahsanahmmed25&color=0969DA&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Visits"/>
   </p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header Wave"/>
@@ -50,6 +50,11 @@
 > 🛠️ **Tech:** Tauri v2, Rust, React 19, TypeScript 5.8, Tailwind CSS v4, Zustand.  
 > ✨ **Key Features:** High-speed file compression & extraction engine, auto-updater subsystem, native Linux Nautilus/KDE integrations.
 
+#### 🎬 [YTDownloader Pro](https://github.com/tahsanahmmed25)
+> **Desktop Video & Audio Downloader Software**  
+> 🛠️ **Tech:** Python, PySide6 (Qt GUI), yt-dlp Core Engine, PyInstaller.  
+> ✨ **Key Features:** Multi-threaded video & audio downloader, format & quality selector, persistent download history manager.
+
 #### 📱 [Threadline](https://github.com/tahsanahmmed25)
 > **Native Android App & Ambient Sound Player Ecosystem**  
 > 🛠️ **Tech:** Kotlin, Jetpack Compose UI, Dagger Hilt, Supabase Edge Functions (Deno/TS), Next.js 16 Website.  
@@ -89,7 +94,6 @@
   <p align="center">
     <a href="https://linkedin.com/in/tahsanahmmed24"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:ztahsan21@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="https://wa.me/8801303307107"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white"/></a>
   </p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=120&section=footer" width="100%"/>
