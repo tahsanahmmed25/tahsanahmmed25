@@ -7,16 +7,21 @@
 
   <br/>
 
+  <!-- Profile Views Badge directly ABOVE Header Avatar -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=tahsanahmmed25&color=FF5E36&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </p>
+
+  <br/>
+
   <!-- Top Header Avatar Animation GIF -->
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="360" style="border-radius:14px;" alt="Header Animation"/>
 
   <br/><br/>
 
-  <!-- Typing Speed & Profile Views Badges directly below Header Avatar -->
+  <!-- Typing Speed Badge directly BELOW Header Avatar -->
   <p align="center">
     <img src="https://img.shields.io/badge/⌨️_TYPING_SPEED-60%2B_WPM-FF5E36?style=for-the-badge&logoColor=white" alt="Typing Speed"/>
-    &nbsp;&nbsp;
-    <img src="https://komarev.com/ghpvc/?username=tahsanahmmed25&color=FF5E36&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </p>
 
   <br/>
@@ -103,7 +108,7 @@
   <p align="center">
     <a href="https://linkedin.com/in/tahsanahmmed24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn"/></a>
     &nbsp;&nbsp;
-    <a href="mailto:ztahsan21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Email"/></a>
+    <a href="mailto:ztahsan21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     &nbsp;&nbsp;
     <a href="https://t.me/tahsanahmmed"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="45" alt="Telegram"/></a>
     &nbsp;&nbsp;
