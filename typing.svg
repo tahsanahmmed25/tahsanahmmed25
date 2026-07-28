@@ -2,31 +2,73 @@
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&amp;display=swap');
     
-    .terminal-container {
+    .term-text {
       font-family: 'Fira Code', 'Share Tech Mono', monospace;
       font-weight: 700;
-      font-size: 24px;
+      font-size: 23px;
       dominant-baseline: middle;
       text-anchor: middle;
     }
 
-    /* Terminal Hacker Typewriter & Color Cycling */
-    .line1 { animation: cycle1 16s infinite; fill: #00F2FE; }
-    .line2 { animation: cycle2 16s infinite; fill: #FF5E36; }
-    .line3 { animation: cycle3 16s infinite; fill: #10B981; }
-    .line4 { animation: cycle4 16s infinite; fill: #A855F7; }
-    .line5 { animation: cycle5 16s infinite; fill: #F59E0B; }
-    .line6 { animation: cycle6 16s infinite; fill: #EC4899; }
+    /* True character-by-character typewriter reveal & distinct colors */
+    .line1 { animation: type1 18s infinite; fill: #00F2FE; }
+    .line2 { animation: type2 18s infinite; fill: #FF5E36; }
+    .line3 { animation: type3 18s infinite; fill: #10B981; }
+    .line4 { animation: type4 18s infinite; fill: #A855F7; }
+    .line5 { animation: type5 18s infinite; fill: #F59E0B; }
+    .line6 { animation: type6 18s infinite; fill: #EC4899; }
 
-    @keyframes cycle1 { 0%, 15% { opacity: 1; } 16%, 100% { opacity: 0; } }
-    @keyframes cycle2 { 0%, 16% { opacity: 0; } 17%, 32% { opacity: 1; } 33%, 100% { opacity: 0; } }
-    @keyframes cycle3 { 0%, 33% { opacity: 0; } 34%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
-    @keyframes cycle4 { 0%, 50% { opacity: 0; } 51%, 66% { opacity: 1; } 67%, 100% { opacity: 0; } }
-    @keyframes cycle5 { 0%, 67% { opacity: 0; } 68%, 83% { opacity: 1; } 84%, 100% { opacity: 0; } }
-    @keyframes cycle6 { 0%, 84% { opacity: 0; } 85%, 99% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes type1 {
+      0% { opacity: 0; clip-path: inset(0 100% 0 0); }
+      2% { opacity: 1; clip-path: inset(0 100% 0 0); }
+      12% { opacity: 1; clip-path: inset(0 0 0 0); }
+      15% { opacity: 1; clip-path: inset(0 0 0 0); }
+      16.5% { opacity: 0; clip-path: inset(0 100% 0 0); }
+      100% { opacity: 0; }
+    }
+    @keyframes type2 {
+      0%, 16.5% { opacity: 0; clip-path: inset(0 100% 0 0); }
+      18.5% { opacity: 1; clip-path: inset(0 100% 0 0); }
+      28.5% { opacity: 1; clip-path: inset(0 0 0 0); }
+      31.5% { opacity: 1; clip-path: inset(0 0 0 0); }
+      33% { opacity: 0; clip-path: inset(0 100% 0 0); }
+      100% { opacity: 0; }
+    }
+    @keyframes type3 {
+      0%, 33% { opacity: 0; clip-path: inset(0 100% 0 0); }
+      35% { opacity: 1; clip-path: inset(0 100% 0 0); }
+      45% { opacity: 1; clip-path: inset(0 0 0 0); }
+      48% { opacity: 1; clip-path: inset(0 0 0 0); }
+      49.5% { opacity: 0; clip-path: inset(0 100% 0 0); }
+      100% { opacity: 0; }
+    }
+    @keyframes type4 {
+      0%, 49.5% { opacity: 0; clip-path: inset(0 100% 0 0); }
+      51.5% { opacity: 1; clip-path: inset(0 100% 0 0); }
+      61.5% { opacity: 1; clip-path: inset(0 0 0 0); }
+      64.5% { opacity: 1; clip-path: inset(0 0 0 0); }
+      66% { opacity: 0; clip-path: inset(0 100% 0 0); }
+      100% { opacity: 0; }
+    }
+    @keyframes type5 {
+      0%, 66% { opacity: 0; clip-path: inset(0 100% 0 0); }
+      68% { opacity: 1; clip-path: inset(0 100% 0 0); }
+      78% { opacity: 1; clip-path: inset(0 0 0 0); }
+      81% { opacity: 1; clip-path: inset(0 0 0 0); }
+      82.5% { opacity: 0; clip-path: inset(0 100% 0 0); }
+      100% { opacity: 0; }
+    }
+    @keyframes type6 {
+      0%, 82.5% { opacity: 0; clip-path: inset(0 100% 0 0); }
+      84.5% { opacity: 1; clip-path: inset(0 100% 0 0); }
+      94.5% { opacity: 1; clip-path: inset(0 0 0 0); }
+      98% { opacity: 1; clip-path: inset(0 0 0 0); }
+      99.5% { opacity: 0; clip-path: inset(0 100% 0 0); }
+      100% { opacity: 0; }
+    }
   </style>
 
-  <g class="terminal-container">
+  <g class="term-text">
     <text x="50%" y="50%" class="line1">&gt; Hi there! I'm Tahsan Ahmmed 👋_</text>
     <text x="50%" y="50%" class="line2">&gt; ⚡ Pure Vibe Coder ⚡_</text>
     <text x="50%" y="50%" class="line3">&gt; 🚀 Building Cool Stuff with AI 🤖_</text>
