@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Crisp Vector Character-by-Character Typing SVG with Increased Font Size (+2px) -->
+  <!-- Crisp Vector Character-by-Character Typing SVG (26px Font) -->
   <a href="https://github.com/tahsanahmmed25">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FF5E36&center=true&vCenter=true&width=780&lines=Hi+there!+I'm+Tahsan+Ahmmed+👋;⚡+Pure+Vibe+Coder+⚡;🚀+Building+Cool+Stuff+with+AI+🤖;📱+Native+Android+and+Mobile+Architect+📲;💻+Desktop+Software+Developer+💻;📊+Web+Analytics+and+Growth+Hacker+📈;🎨+Visual+Designer+and+Motion+Creator+🎬;🧠+Prompt+Engineer+and+AI+Automations+🪄;🚀+Digital+Growth+and+Team+Executive+🌟;✨+Turning+Ideas+into+Products+Fast+🎯" alt="Crisp Vector Typing SVG" />
   </a>
@@ -33,7 +33,7 @@
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 
 - ⚡ **Pure Vibe Coder:** I don't memorize syntax—I prompt, architect, and ship real, production-ready apps using modern AI tools.
 - 🚀 **Building Cool Stuff:** Crafting high-performance native mobile apps, desktop software, and intelligent web applications.
@@ -46,7 +46,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+## 🛠️ Tech Stack & Capabilities
 
 <div align="center">
 
@@ -63,29 +63,29 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 💻 [ZipTag](https://github.com/tahsanahmmed25)
+### 💻 [ZipTag](https://github.com/tahsanahmmed25)
 > **Fast, Polished Offline Desktop Archiver Software**  
 > 🛠️ **Tech:** Tauri v2, Rust, React 19, TypeScript 5.8, Tailwind CSS v4, Zustand.  
 > ✨ **Key Features:** High-speed file compression & extraction engine, auto-updater subsystem, native Linux Nautilus/KDE integrations.
 
-#### 🎬 [YTDownloader Pro](https://github.com/tahsanahmmed25)
+### 🎬 [YTDownloader Pro](https://github.com/tahsanahmmed25)
 > **Desktop Video & Audio Downloader Software**  
 > 🛠️ **Tech:** Python, PySide6 (Qt GUI), yt-dlp Core Engine, PyInstaller.  
 > ✨ **Key Features:** Multi-threaded video & audio downloader, format & quality selector, persistent download history manager.
 
-#### 📱 [Threadline](https://github.com/tahsanahmmed25)
+### 📱 [Threadline](https://github.com/tahsanahmmed25)
 > **Native Android App & Ambient Sound Player Ecosystem**  
 > 🛠️ **Tech:** Kotlin, Jetpack Compose UI, Dagger Hilt, Supabase Edge Functions (Deno/TS), Next.js 16 Website.  
 > ✨ **Key Features:** Multi-track ambient sound player (binaural beats, white noise, ocean loops), in-app purchases, Next.js 16 web platform.
 
-#### 💻 [p0p Automation](https://github.com/tahsanahmmed25)
+### 💻 [p0p Automation](https://github.com/tahsanahmmed25)
 > **Desktop Stealth Web Automation Engine**  
 > 🛠️ **Tech:** Tauri Framework, Playwright Stealth, Puppeteer Extra Stealth, Radix UI, Astro Framework.  
 > ✨ **Key Features:** High-speed stealth web scraper & automated browser actions.
 
-#### ⚡ [Warp Transfer](https://github.com/tahsanahmmed25)
+### ⚡ [Warp Transfer](https://github.com/tahsanahmmed25)
 > **High-Speed File Transfer Tool & Web Platform**  
 > 🛠️ **Tech:** Python CLI/Backend, Astro Framework, Tailwind CSS v4, Framer Motion.  
 > ✨ **Key Features:** Fast peer-to-peer file transfer engine with interactive web showcase.
@@ -101,7 +101,7 @@
   <p align="center">
     <a href="https://linkedin.com/in/tahsanahmmed24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn"/></a>
     &nbsp;&nbsp;
-    <a href="mailto:ztahsan21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:ztahsan21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Email"/></a>
     &nbsp;&nbsp;
     <a href="https://t.me/tahsanahmmed"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="45" alt="Telegram"/></a>
     &nbsp;&nbsp;
