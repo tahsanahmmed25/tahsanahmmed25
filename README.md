@@ -33,7 +33,7 @@
 
 ---
 
-## 🌟 About Me
+# 🌟 About Me
 
 - ⚡ **Pure Vibe Coder:** I don't memorize syntax—I prompt, architect, and ship real, production-ready apps using modern AI tools.
 - 🚀 **Building Cool Stuff:** Crafting high-performance native mobile apps, desktop software, and intelligent web applications.
@@ -46,7 +46,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Capabilities
+# 🛠️ Tech Stack & Capabilities
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 💻 [ZipTag](https://github.com/tahsanahmmed25)
 > **Fast, Polished Offline Desktop Archiver Software**  
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-  ## 🤝 Connect With Me 🤝
+  # 🤝 Connect With Me 🤝
 
   <br/>
 
