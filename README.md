@@ -101,7 +101,11 @@
   <p align="center">
     <a href="https://linkedin.com/in/tahsanahmmed24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn"/></a>
     &nbsp;&nbsp;
-    <a href="mailto:ztahsan21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:ztahsan21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Email"/></a>
+    &nbsp;&nbsp;
+    <a href="https://t.me/tahsanahmmed"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="45" alt="Telegram"/></a>
+    &nbsp;&nbsp;
+    <a href="https://www.facebook.com/tahsanahmmed25"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="45" alt="Facebook"/></a>
   </p>
 
   <br/>
