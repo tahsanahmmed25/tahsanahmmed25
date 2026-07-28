@@ -5,7 +5,7 @@
 
   <!-- Dynamic Animated Typing Text Header -->
   <a href="https://github.com/tahsanahmmed25">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=0969DA&center=true&vCenter=true&width=600&height=50&lines=100%25+Vibe+Coder+Building+Cool+Stuff+✨;Turning+Ideas+into+Real+Apps+with+AI+🤖;Native+Android+%26+Desktop+Architect+📱;Web+Analytics+%26+Growth+Hacker+📊" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=25&pause=1000&color=0969DA&center=true&vCenter=true&width=600&height=50&lines=100%25+Vibe+Coder+Building+Cool+Stuff;Turning+Ideas+into+Real+Apps+with+AI;Native+Android+and+Desktop+Architect;Web+Analytics+and+Growth+Hacker" alt="Typing SVG" />
   </a>
 
   <br/><br/>
