@@ -1,26 +1,24 @@
 <div align="center">
 
-  <!-- Dynamic Animated Typing Text Header -->
+  <!-- Dynamic Animated Typing Text Header in Cool Cyber Orange -->
   <a href="https://github.com/tahsanahmmed25">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=26&pause=1200&color=0969DA&center=true&vCenter=true&width=650&height=55&lines=Hi+there!+I'm+Tahsan+Ahmmed+👋;⚡+Pure+Vibe+Coder+⚡;🚀+Building+Cool+Stuff+with+AI+🤖;📱+Native+Android+and+Mobile+Architect+📲;💻+Desktop+Software+Developer+💻;📊+Web+Analytics+and+Growth+Hacker+📈;🎨+Visual+Designer+and+Video+Editor+🎬;🧠+Prompt+Engineering+and+AI+Workflows+🪄;✨+Turning+Ideas+into+Products+Fast+🎯" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=26&pause=1200&color=FF6B00&center=true&vCenter=true&width=650&height=55&lines=Hi+there!+I'm+Tahsan+Ahmmed+👋;⚡+Pure+Vibe+Coder+⚡;🚀+Building+Cool+Stuff+with+AI+🤖;📱+Native+Android+and+Mobile+Architect+📲;💻+Desktop+Software+Developer+💻;📊+Web+Analytics+and+Growth+Hacker+📈;🎨+Visual+Designer+and+Video+Editor+🎬;🧠+Prompt+Engineering+and+AI+Workflows+🪄;✨+Turning+Ideas+into+Products+Fast+🎯" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- 3D Developer Workspace GIF -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="3D Developer Avatar"/>
-
-  <br/><br/>
-
   <p align="center">
-    <a href="https://linkedin.com/in/tahsanahmmed24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:ztahsan21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <img src="https://komarev.com/ghpvc/?username=tahsanahmmed25&color=0969DA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=tahsanahmmed25&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </p>
 
   <br/>
 
-  <p align="center">⚡ <b>Pure Vibe Coder</b> ⚡ &nbsp;|&nbsp; 🚀 <b>Building Cool Stuff with AI</b> 🤖 &nbsp;|&nbsp; 🎨 <b>Design & Growth Tech</b> 📈</p>
+  <!-- Jubair's Header Avatar Animation GIF -->
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" style="border-radius:12px;" alt="Header Animation"/>
+
+  <br/><br/>
+
+  <p align="center">⚡ <b style="color:#FF6B00;">Pure Vibe Coder</b> ⚡ &nbsp;|&nbsp; 🚀 <b>Building Cool Stuff with AI</b> 🤖 &nbsp;|&nbsp; 🎨 <b>Design & Growth Tech</b> 📈</p>
 
 </div>
 
@@ -100,12 +98,17 @@
   ### 🤝 Connect With Me
 
   <p align="center">
-    <a href="https://linkedin.com/in/tahsanahmmed24"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:ztahsan21@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/tahsanahmmed24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:ztahsan21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=120&section=footer" width="100%"/>
+  <br/>
+
+  <!-- 3D Developer Workspace GIF in Contact Section -->
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="3D Coding Workspace"/>
+
+  <br/><br/>
   
-  <sub>*Thanks for visiting my GitHub profile!* 🚀</sub>
+  <sub><i>"Thanks for visiting my profile! Feel free to reach out for collaborations & projects."</i> 🚀</sub>
 
 </div>
