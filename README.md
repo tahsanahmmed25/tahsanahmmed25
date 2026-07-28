@@ -2,7 +2,7 @@
 
   <!-- Single-Line Multi-Color Animated Dynamic Typing SVG -->
   <a href="https://github.com/tahsanahmmed25">
-    <img src="https://raw.githubusercontent.com/tahsanahmmed25/tahsanahmmed25/main/typing.svg" width="650" height="60" alt="Dynamic Typing Header"/>
+    <img src="https://raw.githubusercontent.com/tahsanahmmed25/tahsanahmmed25/main/typing.svg" width="750" height="65" alt="Dynamic Typing Header"/>
   </a>
 
   <br/>
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-  ### 🤝 Connect With Me
+  ### 🤝 Connect With Me 🤝
 
   <p align="center">
     <a href="https://linkedin.com/in/tahsanahmmed24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
