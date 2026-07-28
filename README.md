@@ -2,7 +2,7 @@
 
   <!-- Dynamic Animated Typing Text Header -->
   <a href="https://github.com/tahsanahmmed25">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=26&pause=1200&color=0969DA&center=true&vCenter=true&width=650&height=55&lines=Hi+there!+I'm+Tahsan+Ahmmed+👋;⚡+100%25+Vibe+Coder+⚡;🚀+Building+Cool+Stuff+with+AI+🤖;📱+Native+Android+and+Mobile+Architect+📲;💻+Desktop+Software+Developer+💻;📊+Web+Analytics+and+Growth+Hacker+📈;🎨+Visual+Designer+and+Video+Editor+🎬;🧠+Prompt+Engineering+and+AI+Workflows+🪄;✨+Turning+Ideas+into+Products+Fast+🎯" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=26&pause=1200&color=0969DA&center=true&vCenter=true&width=650&height=55&lines=Hi+there!+I'm+Tahsan+Ahmmed+👋;⚡+Pure+Vibe+Coder+⚡;🚀+Building+Cool+Stuff+with+AI+🤖;📱+Native+Android+and+Mobile+Architect+📲;💻+Desktop+Software+Developer+💻;📊+Web+Analytics+and+Growth+Hacker+📈;🎨+Visual+Designer+and+Video+Editor+🎬;🧠+Prompt+Engineering+and+AI+Workflows+🪄;✨+Turning+Ideas+into+Products+Fast+🎯" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -20,7 +20,7 @@
 
   <br/>
 
-  <p align="center">⚡ <b>100% Vibe Coder</b> ⚡ &nbsp;|&nbsp; 🚀 <b>Building Cool Stuff with AI</b> 🤖 &nbsp;|&nbsp; 🎨 <b>Design & Growth Tech</b> 📈</p>
+  <p align="center">⚡ <b>Pure Vibe Coder</b> ⚡ &nbsp;|&nbsp; 🚀 <b>Building Cool Stuff with AI</b> 🤖 &nbsp;|&nbsp; 🎨 <b>Design & Growth Tech</b> 📈</p>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 ### 🌟 About Me
 
-- ⚡ **100% Vibe Coder:** I don't memorize syntax—I prompt, architect, and ship real, production-ready apps using modern AI tools.
+- ⚡ **Pure Vibe Coder:** I don't memorize syntax—I prompt, architect, and ship real, production-ready apps using modern AI tools.
 - 🚀 **Building Cool Stuff:** Crafting high-performance native mobile apps, desktop software, and intelligent web applications.
 - 📱 **Mobile App Builder:** Architecting native Android apps in **Kotlin**, **Jetpack Compose UI**, **Dagger Hilt**, and **Supabase Realtime**.
 - 💻 **Desktop Software Engineer:** Building cross-platform software with **Tauri v2**, **Rust**, **Python (PySide6 / Qt)**, and **Stealth Automation Engines**.
