@@ -7,21 +7,16 @@
 
   <br/>
 
-  <!-- Profile Views Badge directly ABOVE Header Avatar -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=tahsanahmmed25&color=FF5E36&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  </p>
-
-  <br/>
-
   <!-- Top Header Avatar Animation GIF -->
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="360" style="border-radius:14px;" alt="Header Animation"/>
 
   <br/><br/>
 
-  <!-- Typing Speed Badge directly BELOW Header Avatar -->
+  <!-- Typing Speed (Coral) & Profile Views (Blue) Side-by-Side with Distinct Colors -->
   <p align="center">
     <img src="https://img.shields.io/badge/⌨️_TYPING_SPEED-60%2B_WPM-FF5E36?style=for-the-badge&logoColor=white" alt="Typing Speed"/>
+    &nbsp;&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=tahsanahmmed25&color=0969DA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </p>
 
   <br/>
