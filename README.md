@@ -92,16 +92,6 @@
 
 ---
 
-### 📊 GitHub Activity & Streak Stats
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahsanahmmed25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%"/>
-
-</div>
-
----
-
 <div align="center">
 
   ### 🤝 Connect With Me
