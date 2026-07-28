@@ -103,8 +103,8 @@
 
   <br/>
 
-  <!-- 3D Developer Workspace GIF in Contact Section -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="3D Coding Workspace"/>
+  <!-- Full-Width 3D Developer Workspace GIF Banner -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px;" alt="3D Developer Workstation Banner"/>
 
   <br/><br/>
 
