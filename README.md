@@ -7,8 +7,10 @@
 
   <br/><br/>
 
-  <!-- Status Badges -->
+  <!-- Telemetry & Status Badges -->
   <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=tahsanahmmed25&color=00FF66&style=for-the-badge&label=PROFILE+VIEWS&label_color=0D1117" alt="Profile Views Counter" />
+    &nbsp;
     <a href="https://github.com/tahsanahmmed25"><img src="https://img.shields.io/badge/SYS_STATUS-ONLINE_%E2%97%8F-00FF66?style=for-the-badge&logoColor=black&labelColor=0D1117" alt="System Status" /></a>
     &nbsp;
     <a href="https://github.com/tahsanahmmed25"><img src="https://img.shields.io/badge/BUILD-v2026.08-00DFD8?style=for-the-badge&logoColor=black&labelColor=0D1117" alt="OS Build" /></a>
