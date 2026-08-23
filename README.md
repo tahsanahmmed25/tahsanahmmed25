@@ -45,25 +45,29 @@
 > * **Zero-Latency Panic Button:** 100% offline box-breathing animation for immediate impulse regulation.
 > * **Dynamic Fraying Telemetry:** Visual streak thread that dynamically updates and persists without battery drain.
 
-#### 🛡️ [ZeroTrace Suite](https://github.com/tahsanahmmed25) — System Runtime & Privacy Hooking
-> `Kotlin` • `Android IPC` • `LSPosed Hooks` • `Privacy Interceptors`  
-> * **Modular Hooking Architecture:** Granular interceptors (`WA-RuntimeKit`, `Messenger RuntimeKit`) for zero-trace sandboxing.
-
 #### 🎬 [YTDownloaderPro](https://github.com/tahsanahmmed25/YTDownloaderPro) — Desktop Video Downloader
 > `Python 3.14` • `PySide6 (Qt GUI)` • `yt-dlp Core` • `PyInstaller`  
 > * **Multi-threaded Media Engine:** Fast video/audio streaming, format selector, and persistent download queue.
+> * **Clean Architecture:** Cross-platform GUI with custom dark themes, subtitle extraction, and auto-updater.
 
 #### 📦 [ZipTag](https://github.com/tahsanahmmed25/ZipTag) — High-Speed Desktop Archiver
 > `Tauri v2` • `Rust Core` • `React 19` • `TypeScript` • `Tailwind CSS`  
 > * **Native File Compression:** Ultra-lightweight, hardware-accelerated archiver with auto-updater subsystem.
+> * **Metadata Tagging:** Fast multi-file organization, compressed archive previews, and cross-platform builds.
+
+#### ⚡ [p0p Automation](https://github.com/tahsanahmmed25/p0p-automation) — Social Media Automation Engine
+> `TypeScript` • `Playwright Stealth` • `Node.js` • `Local Encryption`  
+> * **Local-First Cross-Posting:** Automated social media scheduling with zero cloud telemetry and client-side encryption.
+> * **Stealth Browser Engine:** Session persistence and multi-account automation with rate-limit evasion.
+
+#### 📶 [Warp Transfer](https://github.com/tahsanahmmed25/warp-transfer) — High-Speed Android ⇆ PC File Streamer
+> `Python 3.14` • `PySide6 / Qt` • `ADB FastStream` • `MTP Bypass`  
+> * **High-Speed ADB Streaming:** Bypasses slow Windows MTP protocols for parallel, high-speed multi-gigabyte transfers.
+> * **Plug-and-Play Discovery:** Auto-detects connected Android devices over USB and wireless ADB.
 
 #### 🌐 [Scholarship Access](https://github.com/tahsanahmmed25) — Global Grant Discovery Portal
 > `Next.js 15` • `TypeScript` • `Supabase PostgreSQL` • `Tailwind CSS v4`  
 > * **High-Speed Educational Search:** Multi-tier filtering, real-time database indexing, and responsive PWA layout.
-
-#### 🖥️ [Klassroom Vector Engine](https://github.com/tahsanahmmed25) — 300 DPI Batch Certificate Pipeline
-> `Python` • `PyMuPDF` • `Photoshop MCP` • `Vector Stream Overlay`  
-> * **Lightweight Vector PDFs:** High-res 300 DPI raster artwork merged with 100% selectable live vector text streams (<2MB).
 
 ---
 
