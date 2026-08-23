@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C0A" />
+      <stop offset="100%" stop-color="#0D1310" />
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="cyanGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#00FF66" stroke-width="0.5" opacity="0.07" />
+    </pattern>
+
+    <pattern id="scanlines" width="1200" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="1200" y2="0" stroke="#000000" stroke-width="1.5" opacity="0.25" />
+    </pattern>
+  </defs>
+
+  <!-- Outer CRT Terminal Card -->
+  <rect x="6" y="6" width="1188" height="348" rx="16" fill="url(#bgGrad)" stroke="#00FF66" stroke-width="1.5" stroke-opacity="0.35" />
+  <rect x="6" y="6" width="1188" height="348" rx="16" fill="url(#grid)" />
+  <rect x="6" y="6" width="1188" height="348" rx="16" fill="url(#scanlines)" />
+
+  <!-- Terminal Top Header Bar -->
+  <line x1="6" y1="52" x2="1194" y2="52" stroke="#00FF66" stroke-width="1" stroke-opacity="0.2" />
+
+  <!-- Terminal Controls (Left) -->
+  <circle cx="36" cy="29" r="6" fill="#FF5F56" />
+  <circle cx="56" cy="29" r="6" fill="#FFBD2E" />
+  <circle cx="76" cy="29" r="6" fill="#27C93F" />
+
+  <!-- Terminal Title (Center-Left) -->
+  <text x="105" y="34" font-family="'Courier New', 'Fira Code', monospace" font-size="14" font-weight="700" fill="#00DFD8" letter-spacing="2">
+    TAHSAN.OS // SYSTEM_BOOT_v2026.08
+  </text>
+
+  <!-- Online Indicator (Right) -->
+  <circle cx="1060" cy="29" r="4" fill="#00FF66" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <text x="1075" y="34" font-family="'Courier New', 'Fira Code', monospace" font-size="13" font-weight="700" fill="#00FF66" letter-spacing="1">
+    SYSTEM ONLINE
+  </text>
+
+  <!-- ============================================================ -->
+  <!-- VECTOR PIXEL / MATRIX WORDMARK: T A H S A N                  -->
+  <!-- ============================================================ -->
+  <g transform="translate(195, 88)" filter="url(#glow)">
+    <!-- T -->
+    <path d="M 0 0 h 90 v 22 h -34 v 88 h -22 v -88 h -34 Z" fill="#00FF66" />
+    
+    <!-- A -->
+    <path d="M 125 0 h 85 v 110 h -22 v -40 h -41 v 40 h -22 Z M 147 22 v 30 h 41 v -30 Z" fill="#00FF66" />
+    
+    <!-- H -->
+    <path d="M 245 0 h 22 v 44 h 46 v -44 h 22 v 110 h -22 v -44 h -46 v 44 h -22 Z" fill="#00FF66" />
+    
+    <!-- S -->
+    <path d="M 370 0 h 90 v 22 h -68 v 22 h 68 v 66 h -90 v -22 h 68 v -22 h -68 Z" fill="#00FF66" />
+    
+    <!-- A -->
+    <path d="M 495 0 h 85 v 110 h -22 v -40 h -41 v 40 h -22 Z M 517 22 v 30 h 41 v -30 Z" fill="#00FF66" />
+    
+    <!-- N -->
+    <path d="M 615 0 h 24 l 44 65 v -65 h 22 v 110 h -24 l -44 -65 v 65 h -22 Z" fill="#00FF66" />
+  </g>
+
+  <!-- Sleek Accent Divider Line -->
+  <g transform="translate(195, 230)">
+    <line x1="0" y1="0" x2="810" y2="0" stroke="#00DFD8" stroke-width="1.5" stroke-opacity="0.6" filter="url(#cyanGlow)" />
+    <circle cx="405" cy="0" r="3.5" fill="#00DFD8" filter="url(#cyanGlow)" />
+  </g>
+
+  <!-- Core Subtitle / Role -->
+  <text x="600" y="265" font-family="'Courier New', 'Fira Code', monospace" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="5">
+    HYBRID GROWTH TECHNOLOGIST
+  </text>
+
+  <!-- Capability Pill Strip -->
+  <text x="600" y="305" font-family="'Courier New', 'Fira Code', monospace" font-size="13" font-weight="600" fill="#8B949E" text-anchor="middle" letter-spacing="3">
+    <tspan fill="#00DFD8">MOBILE ARCHITECT</tspan>   //   <tspan fill="#00FF66">DESKTOP AUTOMATION</tspan>   //   <tspan fill="#00DFD8">FULL-STACK</tspan>   //   <tspan fill="#00FF66">WEB ANALYTICS</tspan>
+  </text>
+</svg>
