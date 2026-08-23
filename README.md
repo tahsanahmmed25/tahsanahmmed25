@@ -1,122 +1,166 @@
 <div align="center">
 
-  <!-- Smooth & Slower Character-by-Character Typing SVG (duration=4500ms, pause=1500ms) -->
-  <a href="https://github.com/tahsanahmmed25">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=4500&pause=1500&color=FF5E36&center=true&vCenter=true&width=780&lines=Hi+there!+I'm+Tahsan+Ahmmed+👋;⚡+Pure+Vibe+Coder+⚡;🚀+Building+Cool+Stuff+with+AI+🤖;📱+Native+Android+and+Mobile+Architect+📲;💻+Desktop+Software+Developer+💻;📊+Web+Analytics+and+Growth+Hacker+📈;🎨+Visual+Designer+and+Motion+Creator+🎬;🧠+Prompt+Engineer+and+AI+Automations+🪄;🚀+Digital+Growth+and+Team+Executive+🌟;✨+Turning+Ideas+into+Products+Fast+🎯" alt="Crisp Vector Typing SVG" />
-  </a>
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  TAHSAN.OS [v2026.08]                                       ● SYSTEM ONLINE  ║
+║                                                                              ║
+║   ████████╗ █████╗ ██╗  ██╗███████╗ █████╗ ███╗   ██╗                        ║
+║   ╚══██╔══╝██╔══██╗██║  ██║██╔════╝██╔══██╗████╗  ██║                        ║
+║      ██║   ███████║███████║███████╗███████║██╔██╗ ██║                        ║
+║      ██║   ██╔══██║██╔══██║╚════██║██╔══██║██║╚██╗██║                        ║
+║      ██║   ██║  ██║██║  ██║███████║██║  ██║██║ ╚████║                        ║
+║      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝                        ║
+║                                                                              ║
+║  >> HYBRID GROWTH TECHNOLOGIST                                               ║
+║  >> Mobile Architect | Desktop Automation | Full-Stack | Web Analytics       ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-  <br/>
+<br/>
 
-  <!-- Top Header Avatar Animation GIF -->
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="360" style="border-radius:14px;" alt="Header Animation"/>
-
-  <br/><br/>
-
-  <!-- Typing Speed (Coral) & Profile Views (Blue) Side-by-Side with Distinct Colors -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/⌨️_TYPING_SPEED-60%2B_WPM-FF5E36?style=for-the-badge&logoColor=white" alt="Typing Speed"/>
-    &nbsp;&nbsp;
-    <img src="https://komarev.com/ghpvc/?username=tahsanahmmed25&color=0969DA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  </p>
-
-  <br/>
-
-  <!-- Vibrant Multi-Color Role Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/⚡_Pure_Vibe_Coder-FF5E36?style=for-the-badge&logoColor=white" alt="Vibe Coder"/>
-    <img src="https://img.shields.io/badge/🤖_AI_Architect-A855F7?style=for-the-badge&logoColor=white" alt="AI Architect"/>
-    <img src="https://img.shields.io/badge/📱_Android_Kotlin-10B981?style=for-the-badge&logoColor=white" alt="Android Kotlin"/>
-    <img src="https://img.shields.io/badge/💻_Tauri_Rust-3B82F6?style=for-the-badge&logoColor=white" alt="Tauri Rust"/>
-    <img src="https://img.shields.io/badge/📈_GTM_GA4-F59E0B?style=for-the-badge&logoColor=white" alt="GTM GA4"/>
-    <img src="https://img.shields.io/badge/🎨_Visual_Design-EC4899?style=for-the-badge&logoColor=white" alt="Visual Design"/>
-  </p>
+[![Profile Views](https://img.shields.io/badge/PROFILE_VIEWS-ONLINE-00FF66?style=for-the-badge&logo=target&logoColor=black&labelColor=0A0F0D)](https://github.com/tahsanahmmed25)
+[![Status](https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-00DFD8?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0A0F0D)](https://github.com/tahsanahmmed25)
+[![Location](https://img.shields.io/badge/NODE-DHAKA_%5BUTC%2B6%5D-7928CA?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0A0F0D)](https://github.com/tahsanahmmed25)
 
 </div>
 
----
-
-# 🌟 About Me
-
-- ⚡ **Pure Vibe Coder:** I don't memorize syntax—I prompt, architect, and ship real, production-ready apps using modern AI tools.
-- 🚀 **Building Cool Stuff:** Crafting high-performance native mobile apps, desktop software, and intelligent web applications.
-- 📱 **Mobile App Builder:** Architecting native Android apps in **Kotlin**, **Jetpack Compose UI**, **Dagger Hilt**, and **Supabase Realtime**.
-- 💻 **Desktop Software Engineer:** Building cross-platform software with **Tauri v2**, **Rust**, **Python (PySide6 / Qt)**, and **Stealth Automation Engines**.
-- 🌐 **Full-Stack & Web Architect:** Designing high-speed web platforms using **Next.js 16/14**, **React 19/18**, **Astro Framework**, and **Tailwind CSS v4**.
-- 📊 **Web Analytics Architect:** Specialist in **Google Tag Manager (GTM) Server-Side Tracking**, GA4 DataLayers, Meta Pixel, and Python GTM API automation (`gtm_setup.py`).
-- 🎨 **Visual & Motion Designer:** Creator of 5,800+ graphics, social media posters, and videos using **Adobe Photoshop**, **Illustrator**, **Premiere Pro**, and **After Effects**.
-- 🚀 **Digital Growth Manager:** Admin of *Rapid Views* & Team Manager Executive at *Scholarship Point*.
+<br/>
 
 ---
 
-# 🛠️ Tech Stack & Capabilities
+### 💻 `SYS // DEVELOPER_OBJECT`
+
+```typescript
+// ⚡ INITIALIZING: tahsan.config.ts
+const tahsan: HybridEngineer = {
+  identity: "Hybrid Growth Technologist",
+  architecture: "Resilient, $0/mo self-orchestrated software & automation systems",
+  coreDomains: [
+    "Native Android Engineering (Kotlin / Jetpack Compose)",
+    "Desktop & PDF Vector Automation (Python Qt / PyMuPDF)",
+    "Full-Stack Web Architectures (Next.js 15 / Supabase / TypeScript)",
+    "Server-Side Analytics & Tagging (GTM API / GA4 DataLayers / Meta CAPI)",
+    "Android Systemless Modding (LSPosed Runtime / Magisk / Zygisk)"
+  ],
+  currentFocus: [
+    "Scaling Threadline (Native Streak Recovery Engine)",
+    "ZeroTrace Suite (Android Privacy & Telemetry Hooking)"
+  ],
+  mantra: "Engineer high-craft software, eliminate friction, automate the rest."
+};
+```
+
+<br/>
+
+---
+
+### 🛠️ `SYS // VERIFIED_TECH_MATRIX`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 NATIVE ANDROID & SYSTEM MODDING</h4>
+      <code>[ ◈ KOTLIN ]</code> <code>[ ◈ JETPACK COMPOSE ]</code> <code>[ ◈ ROOM DB ]</code><br/>
+      <code>[ ◈ DAGGER HILT ]</code> <code>[ ◈ COROUTINES ]</code> <code>[ ◈ BROADCAST RECEIVERS ]</code><br/>
+      <code>[ ◈ LSPOSED RUNTIME ]</code> <code>[ ◈ ZYGISK / MAGISK ]</code> <code>[ ◈ WIRELESS ADB ]</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🖥️ DESKTOP & DOCUMENT AUTOMATION</h4>
+      <code>[ ◈ PYTHON 3.14 ]</code> <code>[ ◈ PYSIDE6 / PYQT6 ]</code> <code>[ ◈ PYMUPDF VECTOR ]</code><br/>
+      <code>[ ◈ TAURI V2 (RUST) ]</code> <code>[ ◈ PLAYWRIGHT STEALTH ]</code> <code>[ ◈ YT-DLP ]</code><br/>
+      <code>[ ◈ PHOTOSHOP MCP ]</code> <code>[ ◈ BATCH DATA COMPILER ]</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 FULL-STACK WEB & PLATFORMS</h4>
+      <code>[ ◈ NEXT.JS 15 ]</code> <code>[ ◈ TYPESCRIPT ]</code> <code>[ ◈ REACT 19 ]</code><br/>
+      <code>[ ◈ SUPABASE (POSTGRES) ]</code> <code>[ ◈ TAILWIND CSS V4 ]</code> <code>[ ◈ ASTRO ]</code><br/>
+      <code>[ ◈ VITE ]</code> <code>[ ◈ THREE.JS ]</code> <code>[ ◈ REST APIS ]</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 WEB ANALYTICS & GROWTH ENGINES</h4>
+      <code>[ ◈ SERVER-SIDE GTM ]</code> <code>[ ◈ GA4 DATALAYERS ]</code> <code>[ ◈ META CAPI ]</code><br/>
+      <code>[ ◈ GTM REST API AUTOMATION ]</code> <code>[ ◈ SPSS STATISTICAL MODELING ]</code><br/>
+      <code>[ ◈ CRO & FUNNELS ]</code> <code>[ ◈ AUDIENCE TELEMETRY ]</code>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### 🚀 `SYS // FEATURED_PRODUCTION_BUILDS`
+
+```text
+┌── 01 // THREADLINE [NATIVE ANDROID] ─────────────────────────────────────────┐
+│ • Package: com.tahsanahmmed.threadline                                       │
+│ • Stack  : Kotlin · Jetpack Compose · Dagger Hilt · Room DB · Alarms         │
+│ • Desc   : Single-focus streak & discipline recovery engine featuring        │
+│            zero-latency offline Box-Breathing Panic Mode and dynamic thread  │
+│            fraying telemetry.                                                │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+```text
+┌── 02 // ZEROTRACE SUITE [RUNTIME ENGINE] ────────────────────────────────────┐
+│ • Modules: WA-RuntimeKit · Messenger RuntimeKit · Telegram Engine            │
+│ • Stack  : Kotlin · Android IPC · Runtime Hooking · Privacy Interceptors     │
+│ • Desc   : Modular system-level telemetry and privacy hooking engines        │
+│            engineered for zero-trace client sandboxing.                      │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+```text
+┌── 03 // SCHOLARSHIP ACCESS [WEB PLATFORM] ───────────────────────────────────┐
+│ • Stack  : Next.js 15 · TypeScript · Tailwind CSS · Supabase PostgreSQL      │
+│ • Desc   : High-performance global scholarship discovery portal with         │
+│            country-specific filtering, criteria scoring, and real-time sync. │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+```text
+┌── 04 // KLASSROOM VECTOR PIPELINE [AUTOMATION ENGINE] ───────────────────────┐
+│ • Stack  : Python · PyMuPDF · Photoshop MCP · Batch Stream Compiler          │
+│ • Desc   : 300 DPI high-precision vector certificate engine rendering        │
+│            lightweight (<2MB) PDFs with 100% copyable/selectable live text.  │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
+### 📈 `SYS // GITHUB_TELEMETRY`
 
 <div align="center">
 
-| Domain | Technologies & Software |
-| :--- | :--- |
-| **Mobile App Dev** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **Desktop Software** | ![Tauri](https://img.shields.io/badge/Tauri_v2-FFC131?style=flat-square&logo=tauri&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Qt](https://img.shields.io/badge/PySide6_Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
-| **Full-Stack & Web** | ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **AI & Backend** | ![Gemini AI](https://img.shields.io/badge/Google_Gemini_SDK-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Web Analytics** | ![Google Tag Manager](https://img.shields.io/badge/GTM_Server--Side-246FDB?style=flat-square&logo=googletagmanager&logoColor=white) ![GA4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat-square&logo=googleanalytics&logoColor=white) ![Meta Pixel](https://img.shields.io/badge/Meta_Pixel-0467DF?style=flat-square&logo=meta&logoColor=white) |
-| **Design & Motion** | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) |
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tahsanahmmed25&show_icons=true&theme=tokyonight&bg_color=0A0F0D&title_color=00FF66&icon_color=00DFD8&text_color=8B949E&border_color=00FF6640&hide_border=false" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahsanahmmed25&theme=tokyonight&background=0A0F0D&ring=00FF66&fire=00DFD8&currStreakLabel=00FF66&currStreakNum=00DFD8&sideNums=8B949E&sideLabels=8B949E&border=00FF6640&hide_border=false" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tahsanahmmed25&layout=compact&theme=tokyonight&bg_color=0A0F0D&title_color=00FF66&text_color=8B949E&border_color=00FF6640&hide_border=false" width="60%" />
 
 </div>
 
----
-
-# 🚀 Featured Projects
-
-### 💻 [ZipTag](https://github.com/tahsanahmmed25)
-> **Fast, Polished Offline Desktop Archiver Software**  
-> 🛠️ **Tech:** Tauri v2, Rust, React 19, TypeScript 5.8, Tailwind CSS v4, Zustand.  
-> ✨ **Key Features:** High-speed file compression & extraction engine, auto-updater subsystem, native Linux Nautilus/KDE integrations.
-
-### 🎬 [YTDownloader Pro](https://github.com/tahsanahmmed25)
-> **Desktop Video & Audio Downloader Software**  
-> 🛠️ **Tech:** Python, PySide6 (Qt GUI), yt-dlp Core Engine, PyInstaller.  
-> ✨ **Key Features:** Multi-threaded video & audio downloader, format & quality selector, persistent download history manager.
-
-### 📱 [Threadline](https://github.com/tahsanahmmed25)
-> **Native Android App & Ambient Sound Player Ecosystem**  
-> 🛠️ **Tech:** Kotlin, Jetpack Compose UI, Dagger Hilt, Supabase Edge Functions (Deno/TS), Next.js 16 Website.  
-> ✨ **Key Features:** Multi-track ambient sound player (binaural beats, white noise, ocean loops), in-app purchases, Next.js 16 web platform.
-
-### 💻 [p0p Automation](https://github.com/tahsanahmmed25)
-> **Desktop Stealth Web Automation Engine**  
-> 🛠️ **Tech:** Tauri Framework, Playwright Stealth, Puppeteer Extra Stealth, Radix UI, Astro Framework.  
-> ✨ **Key Features:** High-speed stealth web scraper & automated browser actions.
-
-### ⚡ [Warp Transfer](https://github.com/tahsanahmmed25)
-> **High-Speed File Transfer Tool & Web Platform**  
-> 🛠️ **Tech:** Python CLI/Backend, Astro Framework, Tailwind CSS v4, Framer Motion.  
-> ✨ **Key Features:** Fast peer-to-peer file transfer engine with interactive web showcase.
+<br/>
 
 ---
+
+### 📡 `SYS // SESSION_ENDPOINTS`
 
 <div align="center">
 
-  # 🤝 Connect With Me 🤝
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-tahsanahmmed24-00DFD8?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0A0F0D)](https://linkedin.com/in/tahsanahmmed24)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2B8801303--307107-00FF66?style=for-the-badge&logo=whatsapp&logoColor=black&labelColor=0A0F0D)](https://wa.me/8801303307107)
+[![Email](https://img.shields.io/badge/GMAIL-ztahsan21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F0D)](mailto:ztahsan21@gmail.com)
 
-  <br/>
+<br/>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/tahsanahmmed24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn"/></a>
-    &nbsp;&nbsp;
-    <a href="mailto:ztahsan21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    &nbsp;&nbsp;
-    <a href="https://t.me/tahsanahmmed"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="45" alt="Telegram"/></a>
-    &nbsp;&nbsp;
-    <a href="https://www.facebook.com/tahsanahmmed25"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="45" alt="Facebook"/></a>
-  </p>
-
-  <br/>
-
-  <!-- Full-Width 3D Developer Workspace GIF Banner -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px;" alt="3D Developer Workstation Banner"/>
-
-  <br/><br/>
-
-  <sub>*Thanks for visiting my profile! Feel free to reach out for collaborations & projects.* 🚀</sub>
+```text
+[SESSION_CLOSED] >> Connection to TAHSAN.OS terminated cleanly.
+```
 
 </div>
