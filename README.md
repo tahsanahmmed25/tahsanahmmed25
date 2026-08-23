@@ -44,7 +44,7 @@
 - 🌐 **Full-Stack & Web Architect:** Designing high-speed web platforms using **Next.js 16/14**, **React 19/18**, **Astro Framework**, and **Tailwind CSS v4**.
 - 📊 **Web Analytics Architect:** Specialist in **Google Tag Manager (GTM) Server-Side Tracking**, GA4 DataLayers, Meta Pixel, and Python GTM API automation (`gtm_setup.py`).
 - 🎨 **Visual & Motion Designer:** Creator of 5,800+ graphics, social media posters, and videos using **Adobe Photoshop**, **Illustrator**, **Premiere Pro**, and **After Effects**.
-- 🚀 **Digital Growth Manager:** Founder of *Rapid Views* & Team Manager Executive at *Scholarship Point*.
+- 🚀 **Digital Growth Manager:** Admin of *Rapid Views* & Team Manager Executive at *Scholarship Point*.
 
 ---
 
