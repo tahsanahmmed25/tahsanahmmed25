@@ -89,7 +89,12 @@
 
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-tahsanahmmed24-00DFD8?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117)](https://linkedin.com/in/tahsanahmmed24)
   &nbsp;&nbsp;
-  [![Facebook](https://img.shields.io/badge/FACEBOOK-tahsanahmmed24-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117)](https://facebook.com/tahsanahmmed24)
+  [![Facebook](https://img.shields.io/badge/FACEBOOK-tahsanahmmed25-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117)](https://facebook.com/tahsanahmmed25)
+
+  <br/><br/>
+
+  <!-- 3D Developer Workspace Workstation Typing Animation Banner -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:14px;" alt="3D Developer Workstation Animation" />
 
   <br/><br/>
 
