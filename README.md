@@ -38,9 +38,30 @@
 
 ### 🚀 `03 // FEATURED_PRODUCTION_BUILDS`
 
-<div align="center">
-  <img src="assets/featured-builds.svg" width="100%" alt="Featured Production Builds Bento Card" />
-</div>
+#### 📱 [Threadline](https://github.com/tahsanahmmed25) — Native Android Habit Recovery Engine
+> `Kotlin` • `Jetpack Compose` • `Dagger Hilt` • `Room DB` • `Alarms`  
+> * **Zero-Latency Panic Button:** 100% offline box-breathing animation for immediate impulse regulation.
+> * **Dynamic Fraying Telemetry:** Visual streak thread that dynamically updates and persists without battery drain.
+
+#### 🛡️ [ZeroTrace Suite](https://github.com/tahsanahmmed25) — System Runtime & Privacy Hooking
+> `Kotlin` • `Android IPC` • `LSPosed Hooks` • `Privacy Interceptors`  
+> * **Modular Hooking Architecture:** Granular interceptors (`WA-RuntimeKit`, `Messenger RuntimeKit`) for zero-trace sandboxing.
+
+#### 🎬 [YTDownloaderPro](https://github.com/tahsanahmmed25/YTDownloaderPro) — Desktop Video Downloader
+> `Python 3.14` • `PySide6 (Qt GUI)` • `yt-dlp Core` • `PyInstaller`  
+> * **Multi-threaded Media Engine:** Fast video/audio streaming, format selector, and persistent download queue.
+
+#### 📦 [ZipTag](https://github.com/tahsanahmmed25/ZipTag) — High-Speed Desktop Archiver
+> `Tauri v2` • `Rust Core` • `React 19` • `TypeScript` • `Tailwind CSS`  
+> * **Native File Compression:** Ultra-lightweight, hardware-accelerated archiver with auto-updater subsystem.
+
+#### 🌐 [Scholarship Access](https://github.com/tahsanahmmed25) — Global Grant Discovery Portal
+> `Next.js 15` • `TypeScript` • `Supabase PostgreSQL` • `Tailwind CSS v4`  
+> * **High-Speed Educational Search:** Multi-tier filtering, real-time database indexing, and responsive PWA layout.
+
+#### 🖥️ [Klassroom Vector Engine](https://github.com/tahsanahmmed25) — 300 DPI Batch Certificate Pipeline
+> `Python` • `PyMuPDF` • `Photoshop MCP` • `Vector Stream Overlay`  
+> * **Lightweight Vector PDFs:** High-res 300 DPI raster artwork merged with 100% selectable live vector text streams (<2MB).
 
 ---
 
