@@ -71,8 +71,8 @@
     <!-- Line 5 -->
     <text x="100" y="225">
       <tspan fill="#A5D6FF">"Native Android (Kotlin/Compose)"</tspan><tspan fill="#FFFFFF">, </tspan>
-      <tspan fill="#A5D6FF">"Desktop Automation (Qt/PyMuPDF 300 DPI)"</tspan><tspan fill="#FFFFFF">, </tspan>
-      <tspan fill="#A5D6FF">"Next.js 15"</tspan><tspan fill="#FFFFFF">, </tspan>
+      <tspan fill="#A5D6FF">"Desktop Automation (Qt/Tauri v2)"</tspan><tspan fill="#FFFFFF">, </tspan>
+      <tspan fill="#A5D6FF">"Next.js 15 Web"</tspan><tspan fill="#FFFFFF">, </tspan>
       <tspan fill="#A5D6FF">"Server GTM/CAPI"</tspan>
     </text>
 
@@ -85,8 +85,8 @@
     <text x="70" y="295">
       <tspan fill="#7EE787">currentFocus</tspan>
       <tspan fill="#FFFFFF">: [</tspan>
-      <tspan fill="#00FF66" font-weight="700">"Threadline (Android)"</tspan><tspan fill="#FFFFFF">, </tspan>
-      <tspan fill="#00DFD8" font-weight="700">"ZeroTrace Suite (Privacy)"</tspan>
+      <tspan fill="#00FF66" font-weight="700">"Threadline (Android Engine)"</tspan><tspan fill="#FFFFFF">, </tspan>
+      <tspan fill="#00DFD8" font-weight="700">"Warp Transfer &amp; ZipTag"</tspan>
       <tspan fill="#FFFFFF">],</tspan>
     </text>
 
