@@ -89,9 +89,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-tahsanahmmed24-00DFD8?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117)](https://linkedin.com/in/tahsanahmmed24)
   &nbsp;&nbsp;
-  [![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2B8801303--307107-00FF66?style=for-the-badge&logo=whatsapp&logoColor=black&labelColor=0D1117)](https://wa.me/8801303307107)
-  &nbsp;&nbsp;
-  [![Email](https://img.shields.io/badge/GMAIL-ztahsan21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:ztahsan21@gmail.com)
+  [![Facebook](https://img.shields.io/badge/FACEBOOK-tahsanahmmed24-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117)](https://facebook.com/tahsanahmmed24)
 
   <br/><br/>
 
