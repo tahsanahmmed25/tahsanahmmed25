@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Terminal Typing Header Banner -->
+  <!-- TAHSAN.OS Vector Pixel Wordmark & CRT Terminal Banner -->
   <a href="https://github.com/tahsanahmmed25">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=780&lines=%E2%9A%A1+TAHSAN+AHMMED+%2F%2F+HYBRID+GROWTH+TECHNOLOGIST;%F0%9F%93%B1+Native+Android+Architect+(Kotlin+%2B+Compose);%F0%9F%96%A5%EF%B8%8F+Desktop+%26+Vector+Automation+(Python+Qt+%2B+PyMuPDF);%F0%9F%8C%90+Full-Stack+Platforms+(Next.js+15+%2B+Supabase);%F0%9F%93%8A+Server-Side+Analytics+%26+Telemetry+(GTM+%2B+GA4)" alt="TAHSAN.OS Terminal Header" />
+    <img src="assets/tahsan-header.svg" width="100%" alt="TAHSAN.OS Terminal Header" />
   </a>
 
   <br/><br/>
@@ -11,7 +11,7 @@
   <p align="center">
     <a href="https://github.com/tahsanahmmed25"><img src="https://img.shields.io/badge/SYS_STATUS-ONLINE_%E2%97%8F-00FF66?style=for-the-badge&logoColor=black&labelColor=0D1117" alt="System Status" /></a>
     &nbsp;
-    <a href="https://github.com/tahsanahmmed25"><img src="https://img.shields.io/badge/PROFILE-TAHSAN.OS_v2026.08-00DFD8?style=for-the-badge&logoColor=black&labelColor=0D1117" alt="OS Build" /></a>
+    <a href="https://github.com/tahsanahmmed25"><img src="https://img.shields.io/badge/BUILD-v2026.08-00DFD8?style=for-the-badge&logoColor=black&labelColor=0D1117" alt="OS Build" /></a>
     &nbsp;
     <a href="https://github.com/tahsanahmmed25"><img src="https://img.shields.io/badge/NODE-DHAKA_%5BUTC%2B6%5D-7928CA?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Node Location" /></a>
   </p>
@@ -20,7 +20,7 @@
 
 ---
 
-### 💻 `SYS // DEVELOPER_OBJECT`
+### 💻 `01 // DEVELOPER_OBJECT`
 
 ```typescript
 // ⚡ INITIALIZING: tahsan.config.ts
@@ -42,7 +42,7 @@ interface GrowthTechnologist {
 
 ---
 
-### 🛠️ `SYS // VERIFIED_TECH_MATRIX`
+### 🛠️ `02 // VERIFIED_TECH_MATRIX`
 
 <div align="center">
 
@@ -57,7 +57,7 @@ interface GrowthTechnologist {
 
 ---
 
-### 🚀 `SYS // FEATURED_PRODUCTION_BUILDS`
+### 🚀 `03 // FEATURED_PRODUCTION_BUILDS`
 
 #### 📱 [Threadline](https://github.com/tahsanahmmed25) — Native Android Habit Recovery Engine
 > `Kotlin` • `Jetpack Compose` • `Dagger Hilt` • `Room DB` • `Alarms`  
@@ -86,7 +86,7 @@ interface GrowthTechnologist {
 
 ---
 
-### 📈 `SYS // GITHUB_TELEMETRY`
+### 📈 `04 // GITHUB_TELEMETRY`
 
 <div align="center">
 
@@ -98,7 +98,7 @@ interface GrowthTechnologist {
 
 ---
 
-### 📡 `SYS // SESSION_ENDPOINTS`
+### 📡 `05 // SESSION_ENDPOINTS`
 
 <div align="center">
 
